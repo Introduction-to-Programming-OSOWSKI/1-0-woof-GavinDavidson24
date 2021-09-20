@@ -1,4 +1,2 @@
 def woof():
     return "Woof"
-
-
